@@ -1,0 +1,60 @@
+Data Center Metrics Definitions
+Age of inventory Median days that all active properties have been on the market during a given time period. So the median of the (last day of the period minus the listing aded date), so long as the days active is less than one year and at least 1 day.
+
+Average price drop ratio The average of the ratio between the current list price and the original list price. An average price drop ratio of 5% means active listings have dropped their price by 5% of their original list price on average.
+
+Average sale to list The mean ratio of each homes sale price divided by their list price covering all homes with a sale date during a given time period. Excludes properties with a sale price 50%
+
+Above the listing price or with a sale price 50% below the list price.
+
+Home sales Total number of homes with a sale date during a given time period.
+
+Homes delisted The total number of homes that were pulled off the market during a given time period.
+
+Inventory Total number of active listings on the last day a given time period.
+
+Median active list ppsf The median list price per square foot of all active listings.
+
+Median active list price The median list price of all active listings.
+
+Median active listings The median of how many listings were active on each day within a given time period.
+
+Median days on market The number of days between the date the home was listed for sale and when the home went off-market/pending sale covering all homes with an off-market date during a given time period where 50% of the off-market homes sat longer on the market and 50% went off the market faster. Excludes homes that sat on the market for more than 1 year.
+
+Median days to close The median number of days a home takes to go from pending to sold.
+
+Median list price The most recent listing price covering all homes with a listing date during a given time period where 50% of the active listings were above this price and 50% were below this price.
+
+Median list price per square foot The most recent listing price divided by the total square feet of the property (not the lot) covering all homes with a listing date during a given time period where 50% of the active listings were above this price per sqft and 50% were below this price per sqft.
+
+Median listing with price drops The median of how many listings were active on each day and whose current list price is less than the original list price within a given time period.
+
+Median sale price The final home sale price covering all homes with a sale date during a given time period where 50% of the sales were above this price and 50% were below this price.
+
+Median sale price per square foot The final home sale price divided by the total square feet of the property (not the lot) covering all homes with a sale date during a given time period where 50% of the sales were above this price per sqft and 50% were below this price per sqft.
+
+Months of supply When data are monthly, it is inventory divided by home sales. This tells you how long it would take supply to be bought up if no new homes came on the market.
+
+New listings Total number of homes with a listing added date during a given time period.
+
+Off market in two weeks The total number of homes that went under contract within two weeks of their listing date.
+
+Pending home sales Total homes that went under contract during the period. Excludes homes that were on the market longer than 90 days.
+
+Percent active listings delisted The share of active listings that were pulled off the market during a given time period.
+
+Percent of median active listings with price drops The share of median active listings that dropped their pice in a given time period
+
+Percent of total active listings with price drops The share of total active listings that dropped their price in a given time period.
+
+Percent off market in two weeks The share of pending sales that went under contract within two weeks of their listing date.
+
+Percent total homes sold with price drops The share of homes with a sale date during a given time period where the sale price is less th an the lastest listing price.
+
+Price drops How many listings dropped their price in a given time period.
+
+Sold above list The percent of homes sales with a sale price greater than their latest list price covering all homes with a sale date during a given time period. Excludes properties with a sale price 50% above the listing price or with a sale price 50% below the list price.
+
+Total active listings The total number of listings that were active at any point during a given time period.
+
+Total homes sold with price drops The total number of homes with a sale date during a given time period and where the sale price is less than the latest listing price.
