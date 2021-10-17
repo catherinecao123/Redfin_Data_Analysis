@@ -30,7 +30,7 @@ Housing is a big topic in our life. I have been interested in it for a couple of
 ## File Descriptions <a name="files"></a>
 
 There is one jupter notebook with all the code, brief documentation of the code and the run-through result available in the repository to showcase work related to the above questions. 
-The Data folder contains the housing market data that downloarded from Redfin data center data used by this analysis.  
+The Data folder contains the housing market data that downloarded from Redfin data center data used by this analysis and the matrix description that explains most of the terms and columns used in the data.  
 
 
 ## Summary of the Analysis <a name="summary"></a>
