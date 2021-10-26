@@ -11,7 +11,7 @@
 ## Introduction <a name="introduction"></a>
 This repository uses [Redfin](https://www.redfin.com/) housing market data which covers a range of 10 years to explore the housing market especially compare the numbers from before covid-19 and after covid-19. 
 The pandemic had given a big hit to the country's economy, then what the housing market look like before and after the year 2019. Redfin provids data across the country and this project will use python to 
-explore the data and then to answer some questions. 
+explore part of the data which is the metro areas housing market data and then to answer some questions. 
 
 ## Libraries and Installation <a name="installation"></a>
 There are a list of common libraries used in the projects, numpy, pandas, matplotlib, sklearn, seaborn etc., but 
