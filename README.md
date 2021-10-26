@@ -96,7 +96,7 @@ The Data folder contains the housing market data that downloarded from Redfin da
 
 3. Homes are also sold fast during and after the pandemic for the metro cities. 42% of homes that went under contract had an accepted offer within first two weeks and that number was 31% a year earlier and 24% in 2019. 31% of metro area homes had an accepted offer within one week and that number was 22% a year ealier and 16% in 2019. 
 
-The main findings of the code can also be found at the post available [here](https://medium.com/p/6a6f7fb87edd/edit).
+The main findings of the code can also be found at the post available [here](https://medium.com/@ccao519/are-you-thinking-about-buying-a-home-do-you-know-the-housing-market-amid-the-covid-19-pandemic-6a6f7fb87edd).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
